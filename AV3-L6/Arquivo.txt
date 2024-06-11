@@ -1,0 +1,8 @@
+++ Produto ++
+camisinha
+8.9
+sesco
+++ Produto ++
+sabonete
+10.5
+higiene
