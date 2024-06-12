@@ -1,0 +1,15 @@
+++ Aluno ++
+Eduardo
+402
+GES
+90.0
+++ Aluno ++
+Matheus
+299
+GES
+100.0
+++ Aluno ++
+Gabriel
+298
+GEB
+90.0
